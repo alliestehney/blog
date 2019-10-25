@@ -26,5 +26,5 @@ collections:
         name: "home"
         file: "content/home.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: Title, name: title, widget: string" }
+          - { label: Subtitle, name: subtitle, widget: string }
